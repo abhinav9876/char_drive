@@ -16,4 +16,4 @@
   <li># cat /dev/chardev_file // let "chardev_file" we create using mkmod
   </ul>
   
-<h4>It can also be use as file (special file) in program in any programming language with open, read and close statemen.</h4>
+<h4>It can also be use as file (special file) in program in any programming language with open, read and close statement.</h4>
